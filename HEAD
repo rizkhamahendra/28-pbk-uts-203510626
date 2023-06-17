@@ -1,1 +1,12 @@
-ref: refs/heads/main
+0000000000000000000000000000000000000000 d335fe3832ca33b61e4a48e2ba32c75a5e6b1491 daffahaykelputra <profdf35@gmail.com> 1683735795 +0700	commit (initial): init
+d335fe3832ca33b61e4a48e2ba32c75a5e6b1491 ce38ca276cb0525412ad6af99bb7eb5bb32166b2 daffahaykelputra <profdf35@gmail.com> 1683737080 +0700	commit: first commit
+ce38ca276cb0525412ad6af99bb7eb5bb32166b2 0000000000000000000000000000000000000000 daffahaykelputra <profdf35@gmail.com> 1683737098 +0700	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 ce38ca276cb0525412ad6af99bb7eb5bb32166b2 daffahaykelputra <profdf35@gmail.com> 1683737098 +0700	Branch: renamed refs/heads/master to refs/heads/main
+ce38ca276cb0525412ad6af99bb7eb5bb32166b2 93ff268d77829792b35bffe3aedb8bf4746f64af daffahaykelputra <profdf35@gmail.com> 1686935036 +0700	commit: Update
+93ff268d77829792b35bffe3aedb8bf4746f64af 0000000000000000000000000000000000000000 daffahaykelputra <profdf35@gmail.com> 1686935071 +0700	Branch: renamed refs/heads/main to refs/heads/main
+93ff268d77829792b35bffe3aedb8bf4746f64af 93ff268d77829792b35bffe3aedb8bf4746f64af daffahaykelputra <profdf35@gmail.com> 1686935071 +0700	Branch: renamed refs/heads/main to refs/heads/main
+93ff268d77829792b35bffe3aedb8bf4746f64af 53d67c55a1644beac03914831c1eed715a6f72b9 rizkhamahendra <rizkhamahendra@student.uir.ac.id> 1687014854 +0700	commit: first commit
+53d67c55a1644beac03914831c1eed715a6f72b9 0000000000000000000000000000000000000000 rizkhamahendra <rizkhamahendra@student.uir.ac.id> 1687014866 +0700	Branch: renamed refs/heads/main to refs/heads/main
+53d67c55a1644beac03914831c1eed715a6f72b9 53d67c55a1644beac03914831c1eed715a6f72b9 rizkhamahendra <rizkhamahendra@student.uir.ac.id> 1687014866 +0700	Branch: renamed refs/heads/main to refs/heads/main
+53d67c55a1644beac03914831c1eed715a6f72b9 0000000000000000000000000000000000000000 rizkhamahendra <rizkhamahendra@student.uir.ac.id> 1687016893 +0700	Branch: renamed refs/heads/main to refs/heads/main
+53d67c55a1644beac03914831c1eed715a6f72b9 53d67c55a1644beac03914831c1eed715a6f72b9 rizkhamahendra <rizkhamahendra@student.uir.ac.id> 1687016893 +0700	Branch: renamed refs/heads/main to refs/heads/main
